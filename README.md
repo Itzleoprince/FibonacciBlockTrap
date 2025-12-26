@@ -220,7 +220,7 @@ This trap is safe for Drosera relay execution and interface review.
 ## References
 
 * Drosera Hoodi Guide
-  [https://github.com/Reiji4kt/Drosera-hoodi](https://github.com/Reiji4kt/Drosera-hoodi)
+  [https://github.com/Itzleoprince/Drosera-Network-Hoodi](https://github.com/Itzleoprince/Drosera-Network-Hoodi)
 
 * Hoodi RPC
   [https://ethereum-hoodi-rpc.publicnode.com](https://ethereum-hoodi-rpc.publicnode.com)
