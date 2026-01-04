@@ -5,11 +5,11 @@ drosera_address = "0x91cB447BaFc6e0EA0F4Fe056F5a9b1F14bb06e5D"
 
 [traps.fibonacci_block_trap]
 path = "out/FibonacciBlockTrap.sol/FibonacciBlockTrap.json"
-response_contract = "0x25E92995d118eDAE16218765F29363EeBd85017E"
+response_contract = "0x9c4E6eB810188Df449Db3D2d2cfB88ED1FaA3B35"
 response_function = "respondWithFibonacci(uint256)"
 cooldown_period_blocks = 20
 min_number_of_operators = 1
 max_number_of_operators = 3
-block_sample_size = 2
+block_sample_size = 1
 private_trap = true
 whitelist = ["0x6e9D3eEab31CF0a47B9e9F00459E86839Feff058"]
